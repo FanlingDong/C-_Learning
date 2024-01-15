@@ -13,6 +13,9 @@ namespace _001_begin
         
         static void Main(string[] args)
         {
+            /*
+             * 这是多行注释
+             */
             // Console是一个类，WriteLine是一个方法
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
